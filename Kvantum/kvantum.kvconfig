@@ -1,0 +1,5 @@
+[General]
+theme=XMaS
+
+[Applications]
+XMaS-NS=plasmashell, clementine, musique, vlc, kcalc, juk, elisa, strawberry

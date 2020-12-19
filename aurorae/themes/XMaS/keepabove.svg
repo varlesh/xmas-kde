@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" version="1.1">
+ <g id="active-center" transform="translate(-4,-4)">
+  <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.92783177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="14" height="14" x="4" y="4"/>
+  <circle style="opacity:1;fill:#607d8b;fill-opacity:1;stroke:none;stroke-width:1.94492304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="11" cy="11" r="7"/>
+ </g>
+ <g id="inactive-center" transform="translate(42)">
+  <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.92783177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="14" height="14" x="0" y="0"/>
+  <circle style="opacity:0.23999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.94492304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="7" cy="7" r="7"/>
+ </g>
+ <g id="deactivated-center" transform="translate(56)">
+  <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.92783177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="14" height="14" x="0" y="0"/>
+  <circle style="opacity:0.12;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.94492304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="7" cy="7" r="7"/>
+ </g>
+ <g id="hover-center">
+  <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.92783177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="14" height="14" x="14" y="0"/>
+  <circle style="opacity:1;fill:#607d8b;fill-opacity:1;stroke:none;stroke-width:1.94492304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="21" cy="7" r="7"/>
+  <path style="opacity:0.2;fill:#000000" d="M 21,5 C 20.576636,5 20.152528,5.16192 19.828125,5.48633 L 17.486328,7.82812 C 17.161925,8.15253 17,8.57664 17,9 h 8 C 25,8.57664 24.838075,8.15253 24.513672,7.82812 L 22.171875,5.48633 C 21.847472,5.16192 21.423364,5 21,5 Z"/>
+  <path style="opacity:1;fill:#ffffff" d="M 21,4 C 20.576636,4 20.152528,4.16192 19.828125,4.48633 L 17.486328,6.82812 C 17.161925,7.15253 17,7.57664 17,8 h 8 C 25,7.57664 24.838075,7.15253 24.513672,6.82812 L 22.171875,4.48633 C 21.847472,4.16192 21.423364,4 21,4 Z"/>
+ </g>
+ <g id="pressed-center">
+  <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.92783177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="14" height="14" x="28" y="0"/>
+  <circle style="opacity:1;fill:#455a64;fill-opacity:1;stroke:none;stroke-width:1.94492304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="35" cy="7" r="7"/>
+  <path style="opacity:0.2;fill:#000000" d="M 35,5 C 34.576636,5 34.152528,5.16192 33.828125,5.48633 L 31.486328,7.82812 C 31.161925,8.15253 31,8.57664 31,9 h 8 C 39,8.57664 38.838075,8.15253 38.513672,7.82812 L 36.171875,5.48633 C 35.847472,5.16192 35.423364,5 35,5 Z"/>
+  <path style="opacity:1;fill:#ffffff" d="M 35,4 C 34.576636,4 34.152528,4.16192 33.828125,4.48633 L 31.486328,6.82812 C 31.161925,7.15253 31,7.57664 31,8 h 8 C 39,7.57664 38.838075,7.15253 38.513672,6.82812 L 36.171875,4.48633 C 35.847472,4.16192 35.423364,4 35,4 Z"/>
+ </g>
+</svg>

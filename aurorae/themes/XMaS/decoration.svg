@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" version="1.1">
+ <defs id="defs25">
+  <linearGradient id="linearGradient988">
+   <stop style="stop-color:#000000;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1054" x1="155" x2="155" y1="956.362" y2="968.362" gradientTransform="translate(-9,-768.36216)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
+  <radialGradient id="radialGradient1070" cx="105.5" cy="945.736" r="12.5" fx="105.5" fy="945.736" gradientTransform="matrix(-1.0400001,-1.120317e-7,1.034135e-7,-0.95999651,201.71997,1095.9034)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
+  <linearGradient id="linearGradient1078" x1="92" x2="79" y1="892.362" y2="892.362" gradientTransform="translate(0,-763.36216)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
+  <radialGradient id="radialGradient1094" cx="108.639" cy="851.362" r="12.5" fx="108.639" fy="851.362" gradientTransform="matrix(0,-0.56000049,1.0399944,0,-793.41201,150.83784)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
+  <linearGradient id="linearGradient938" x1="92" x2="79" y1="892.362" y2="892.362" gradientTransform="matrix(-1,0,0,1,282,-763.36216)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
+  <radialGradient id="radialGradient942" cx="105.5" cy="945.736" r="12.5" fx="105.5" fy="945.736" gradientTransform="matrix(1.0399999,-1.6553279e-6,-1.5279896e-6,-0.95999651,80.28139,1095.9036)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
+  <radialGradient id="radialGradient946" cx="108.639" cy="851.362" r="12.5" fx="108.639" fy="851.362" gradientTransform="matrix(-4.2816027e-7,-0.56000049,-1.0399944,7.9514998e-7,1075.4121,150.83717)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
+  <linearGradient id="linearGradient844" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,85.99999,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+  <linearGradient id="linearGradient852">
+   <stop style="stop-color:#6364fd;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#af73dc;stop-opacity:1" offset=".649"/>
+   <stop style="stop-color:#f882bf;stop-opacity:1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient895" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,85.99999,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+  <linearGradient id="linearGradient900" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,86,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+  <linearGradient id="linearGradient905" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,86,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+  <linearGradient id="linearGradient910" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,86,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+  <linearGradient id="linearGradient915" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,85.99999,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+  <linearGradient id="linearGradient920" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,86,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+  <linearGradient id="linearGradient930" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,86,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+  <linearGradient id="linearGradient935" x1="1227.273" x2="272.727" y1="-514.61" y2="963.153" gradientTransform="matrix(0.03666667,0,0,0.06902322,86,111.52005)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient852"/>
+ </defs>
+ <g id="decoration-topleft">
+  <g id="g945">
+   <path style="opacity:0.3;fill:url(#radialGradient1094)" d="m 79,81 v 9 h 7 v 0 c 0,-7 6,-7 6,-7 v -2 z"/>
+   <path style="opacity:0.3" d="m 92,82 c 0,0 -1.753276,-0.009 -3.503906,1.011719 C 86.745463,84.032919 85,86.21428 85,90 v 0 h 2 v 0 c 0,-3.21429 1.254536,-4.530966 2.503906,-5.259766 C 90.753276,84.011434 92,84 92,84 v 0 z"/>
+   <path style="opacity:1;fill:url(#linearGradient935)" d="M 92 83 C 92 83 86 83 86 90 L 92 90 L 92 83 z"/>
+   <path style="opacity:0.1;fill:#ffffff" d="m 92,83 c 0,0 -6,0 -6,7 h 0.03516 C 86.403609,84.018748 92,84 92,84 Z"/>
+  </g>
+ </g>
+ <g id="decoration-left">
+  <path style="opacity:1;fill:url(#linearGradient930)" d="m 86,90 v 98 h 6 V 90 Z"/>
+  <path style="opacity:0.3;fill:url(#linearGradient1078)" d="m 79,90 v 98 h 7 V 90 Z"/>
+  <path style="opacity:0.3" d="M 86,187.9994 V 90 h -1 v 98 z"/>
+ </g>
+ <g id="decoration-top">
+  <path style="opacity:1;fill:url(#linearGradient900)" d="M 92 83 L 92 90 L 190 90 L 190 83 L 92 83 z"/>
+  <path style="opacity:0.001" d="M 190,81 H 92.000001 v 2 H 190 Z"/>
+  <path style="opacity:0.1;fill:#ffffff" d="m 92.000001,83 v 1 H 190 v -1 z"/>
+  <path style="opacity:0.3" d="m 92.000001,82 v 1 H 190 v -1 z"/>
+ </g>
+ <g id="decoration-bottom">
+  <path style="opacity:1;fill:url(#linearGradient920)" d="M 92 188 L 92 189 L 190 189 L 190 188 L 92 188 z"/>
+  <path style="opacity:0.3;fill:url(#linearGradient1054)" d="m 92,200 h 98 V 189 H 92 Z"/>
+  <path style="opacity:0.3" d="M 189.9994,189 H 92 v 1 h 98 z"/>
+ </g>
+ <g id="decoration-bottomleft">
+  <path style="opacity:1;fill:url(#linearGradient915)" d="M 86 188 L 86 189 L 92 189 L 92 188 L 86 188 z"/>
+  <path style="opacity:0.3;fill:url(#radialGradient1070)" d="m 79,188 v 12 h 13 v -11 h -6 v -1 z"/>
+  <path style="opacity:0.3" d="m 85,188 v 1 1 h 7 v -1 h -6 v -1 z"/>
+ </g>
+ <g id="decoration-bottomright">
+  <path style="opacity:1;fill:url(#linearGradient910)" d="M 190 188 L 190 189 L 196 189 L 196 188 L 190 188 z"/>
+  <path style="opacity:0.3;fill:url(#radialGradient942)" d="m 203,188 v 12 h -13 v -11 h 6 v -1 z"/>
+  <path style="opacity:0.3" d="m 197,188 v 1 1 h -7 v -1 h 6 v -1 z"/>
+ </g>
+ <g id="decoration-topright">
+  <path style="opacity:0.3;fill:url(#radialGradient946)" d="m 203,81 v 9 h -7 v 0 c 0,-7 -6,-7 -6,-7 v -2 z"/>
+  <path style="opacity:0.3" d="m 190,82 c 0,0 1.75328,-0.009 3.50391,1.011719 C 195.25454,84.032919 197,86.21428 197,90 v 0 h -2 v 0 c 0,-3.21429 -1.25454,-4.530966 -2.50391,-5.259766 C 191.24672,84.011434 190,84 190,84 v 0 z"/>
+  <path style="opacity:1;fill:url(#linearGradient905)" d="M 190 83 L 190 90 L 196 90 C 196 83 190 83 190 83 z"/>
+  <path style="opacity:0.1;fill:#ffffff" d="m 190,83 c 0,0 6,0 6,7 h -0.0352 C 195.59639,84.018748 190,84 190,84 Z"/>
+ </g>
+ <path id="decoration-center" style="opacity:1;fill:url(#linearGradient844)" d="M 92 90 L 92 188 L 190 188 L 190 90 L 92 90 z"/>
+ <g id="decoration-right">
+  <path style="opacity:1;fill:url(#linearGradient895)" d="M 190 90 L 190 188 L 196 188 L 196 90 L 190 90 z"/>
+  <path style="opacity:0.3;fill:url(#linearGradient938)" d="m 203,90 v 98 h -7 V 90 Z"/>
+  <path style="opacity:0.3" d="M 196,187.9994 V 90 h 1 v 98 z"/>
+ </g>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#ff0000" width="4" height="4" x="0" y="-4"/>
+ <rect id="shadow-hint-top-margin" style="opacity:1;fill:#ff00ff" width="4" height="2" x="139" y="81"/>
+ <rect id="hint-top-margin" style="fill:#00ff29" width="4" height="9" x="139" y="81"/>
+ <rect id="shadow-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="4" height="11" x="139" y="189"/>
+ <rect id="hint-bottom-margin" style="fill:#00ff29" width="4" height="12" x="139" y="188"/>
+ <rect id="shadow-hint-right-margin" style="opacity:1;fill:#ff00ff" width="7" height="4" x="196" y="137"/>
+ <rect id="shadow-hint-left-margin" style="opacity:1;fill:#ff00ff" width="7" height="4" x="79" y="137"/>
+ <rect id="hint-left-margin" style="fill:#00ff29" width="4" height="13" x="137" y="-92" transform="rotate(90)"/>
+ <rect id="hint-right-margin" style="fill:#00ff29" width="4" height="13" x="137" y="-203" transform="rotate(90)"/>
+</svg>
